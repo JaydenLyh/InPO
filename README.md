@@ -1,7 +1,5 @@
 # [DDIM-InPO]  👋  
-**InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment (CVPR 2025)** | 
-
-<!-- [arXiv Paper](https://arxiv.org/abs/XXXX.XXXX)   -->
+**InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment (CVPR 2025)** | [arXiv Paper](http://arxiv.org/abs/2503.18454) 
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]()  
 
@@ -10,8 +8,8 @@
 ---
 
 ## 📖 News
-<!-- - **[2025-03-24]** Preprint paper released on arXiv! -->
-- **[2023-03-24]** Checkpoints published.
+- **[2025-03-24]** Preprint paper released on arXiv!
+- **[2025-03-24]** Checkpoints published.
 - **[Upcoming]** Training Code.
 
 ---
