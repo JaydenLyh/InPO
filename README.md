@@ -33,7 +33,7 @@
 ### 🛠️ Installation (Coming Soon)
 ```bash
 git clone https://github.com/JaydenLyh/InPO.git
-cd DDIM-InPO
+cd InPO
 pip install -r requirements.txt
 ```
 ---
