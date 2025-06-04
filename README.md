@@ -1,6 +1,6 @@
 # [DDIM-InPO] 👋  
 **InPO: Inversion Preference Optimization with Reparametrized DDIM for Efficient Diffusion Model Alignment**  
-*(CVPR 2025 Highlight)* | [arXiv Paper](http://arxiv.org/abs/2503.18454) | [Project Page](https://jaydenlyh.github.io/InPO-project-page/) | [Poster](https://cvpr.thecvf.com/virtual/2025/poster/33603)
+*(CVPR 2025 Highlight)* | [arXiv Paper](http://arxiv.org/abs/2503.18454) | [Project Page](https://jaydenlyh.github.io/InPO-project-page/) | [Poster](https://cvpr.thecvf.com/virtual/2025/poster/33603) | [SmPO-Diffusion Project Page](https://jaydenlyh.github.io/SmPO-project-page/)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]()  
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)]()  
