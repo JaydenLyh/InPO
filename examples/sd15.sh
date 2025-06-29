@@ -12,6 +12,6 @@ CUDA_VISIBLE_DEVICES="0,1,2,3,4,5,6,7" accelerate launch --main_process_port $PO
   --max_train_steps=400 \
   --lr_scheduler="constant_with_warmup" --lr_warmup_steps=200 \
   --learning_rate=1e-8 --scale_lr \
-  --checkpointing_steps 500 \
+  --checkpointing_steps 50 \
   --beta_dpo 2000 \
   --output_dir="ddiminpo-sd15" \
